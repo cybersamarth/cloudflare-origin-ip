@@ -3,8 +3,7 @@
 <h4 align="center">Try to find the origin IP of a webapp protected by Cloudflare.</h4>
 
 <p align="center">
-  style=social&url=https%3A%2F%2Fgithub.com%2Fgwen001%2Fcloudflare-origin-ip" alt="twitter badge"></a>
-</p>
+ 
 
 <!-- <p align="center">
     <img src="https://img.shields.io/github/stars/gwen001/cloudflare-origin-ip?style=social" alt="github stars badge">

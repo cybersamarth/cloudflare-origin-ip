@@ -25,7 +25,7 @@ Then, a score of similarity is calculated for each response using the Levenshtei
 ## Install
 
 ```
-git clone https://github.com/gwen001/cloudflare-origin-ip
+git clone https://github.com/cybersamarth/IP-Origin-Finder-Protected-By-Cloudflare.git
 cd cloudflare-origin-ip
 pip3 install -r requirements.txt
 ```
